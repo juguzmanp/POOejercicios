@@ -1,5 +1,6 @@
 # POOejercicios
 ejercicios 1-30
+
 1.
 
 ![image](https://github.com/user-attachments/assets/ddff6424-ba39-4947-852a-4aed3e04010d)
