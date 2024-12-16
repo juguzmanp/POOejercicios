@@ -120,7 +120,30 @@ ejercicios 1-30
 ![image](https://github.com/user-attachments/assets/b023ab87-c367-4b86-8b4c-b4bedad83c2c)
 ![image](https://github.com/user-attachments/assets/43c824b0-174d-4ee8-bad4-9b4f18ad3184)
 
+24.Ecuacion de segundo grado
+
+![image](https://github.com/user-attachments/assets/a8b636bd-7148-4b9f-9642-53686d64c2f7)
+![image](https://github.com/user-attachments/assets/05913b7a-4987-4110-9d16-afcd88f9d026)
+![image](https://github.com/user-attachments/assets/dbbce3b6-cf90-456a-9c31-be735af3f6fe)
+
+25.Funciones factorial y Ackermann (recursivas)
+
+![image](https://github.com/user-attachments/assets/70e6b0e0-ca88-4b33-9d58-a0256a78e846)
+![image](https://github.com/user-attachments/assets/646f08c6-74b5-4bca-aaf7-7e62172f9612)
+![image](https://github.com/user-attachments/assets/2fbb66fc-7134-4fee-a45e-9c3df369ebe8)
+
+26.Hallar el mayor y el menor de los enteros
+
+![image](https://github.com/user-attachments/assets/fd624950-c99a-44b1-a936-baf30a08e2cb)
+![image](https://github.com/user-attachments/assets/9858ec42-bb23-4197-a765-9f45b425d1c0)
+
 27.Farenheit a Celsius, termina cuando la temperatura sea 999. Nota: Este programa finaliza tanto cuando recibe una entrada de 999, como cuando la conversion da como resultado 999.
 
 ![image](https://github.com/user-attachments/assets/3b48863a-ecdb-48d4-8240-aa597c930a69)
 ![image](https://github.com/user-attachments/assets/a85119b5-c69d-479c-8997-6de469b4411d)
+
+30.Detectar e imprimir numeros primos con for anidado
+
+![image](https://github.com/user-attachments/assets/57070883-a4e5-47bc-b5a9-77f9a3127450)
+![image](https://github.com/user-attachments/assets/c2b94887-2b49-45e7-be9a-0923864f42f4)
+![image](https://github.com/user-attachments/assets/92e10111-1a6e-4678-863c-3db9ba24fa25)
